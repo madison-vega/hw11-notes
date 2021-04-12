@@ -20,6 +20,8 @@ No installation requirements, this is a deployed application.
 
 ## Usage 
 Usage is simple and easy to maneuver. You just need to follow the link to the deployed application, once there you will click the start button.  You will be routed to the page that allows you to add your notes in, once you input your note you click the save icon to store it.
+[Link to Application](https://git.heroku.com/tranquil-journey-50225.git)
+[Link to Repo](https://github.com/madison-vega/hw11-notes)
 
 
 
