@@ -10,6 +10,7 @@ const PORT = process.env.PORT || 3000;
 // Middleware to handle data parsing
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
+app.use(express.static('public'))
 
 // Routes
 app.get('/', (req, res) => res.sendFile(path.join(__dirname, './public/index.html')));
