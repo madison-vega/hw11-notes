@@ -1,6 +1,7 @@
 # hw11-notes
 
 ## Description
+This app utilizes Express.js to be able to input your notes and store them in a db.json file.  It also allows you to retrieve your notes to view.  This helps keep your notes organized in one centralized place.
 
 
 
@@ -11,11 +12,11 @@
 * [Usage](#usage)
 * [Credits](#credits)
 * [License](#license)
-* [Tests](#tests)
 * [Questions](#questions)
 
 
 ## Installation
+
 
 
 
@@ -51,8 +52,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-
-## Tests
 
 
 
