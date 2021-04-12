@@ -16,11 +16,12 @@ This app utilizes Express.js to be able to input your notes and store them in a 
 
 
 ## Installation
-
+No installation requirements, this is a deployed application.
 
 
 
 ## Usage 
+Usage is simple and easy to maneuver. 
 
 
 
