@@ -5,12 +5,10 @@ This app utilizes Express.js to be able to input your notes and store them in a 
 
 
 
-
 ## Table of Contents 
 
 * [Installation](#installation)
 * [Usage](#usage)
-* [Credits](#credits)
 * [License](#license)
 * [Questions](#questions)
 
@@ -21,11 +19,8 @@ No installation requirements, this is a deployed application.
 
 
 ## Usage 
-Usage is simple and easy to maneuver. 
+Usage is simple and easy to maneuver. You just need to follow the link to the deployed application, once there you will click the start button.  You will be routed to the page that allows you to add your notes in, once you input your note you click the save icon to store it.
 
-
-
-## Credits
 
 
 
